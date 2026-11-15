@@ -1,0 +1,37 @@
+step_id,entity,raw_text,documented_completeness,taxonomy_label
+STEP-001,Corporate,[Corporate] Check revenue near period end for cutoff issues.,partial,Revenue Cutoff
+STEP-002,Marketing BU,"[Marketing BU] Review all revenue transactions booked in the final 3 business days of the period, confirm shipping/delivery terms support the recognition date, and document any cutoff adjustments with supporting evidence before journal entry posting.",full,Revenue Cutoff
+STEP-003,Field Ops BU,[Field Ops BU] Check revenue near period end for cutoff issues.,partial,Revenue Cutoff
+STEP-004,Subsidiary-A,"[Subsidiary-A] Compile outstanding accrual requests from department owners by the 2nd business day, validate each against open PO and invoice data, and post accrual journal entries with a documented basis for each estimate.",full,Accrual Review
+STEP-005,Field Ops BU,[Field Ops BU] Collect accrual estimates from departments and book them.,partial,Accrual Review
+STEP-006,Corporate,[Corporate] Amortize prepaids per the schedule.,partial,Prepaid Amortization
+STEP-007,Subsidiary-A,"[Subsidiary-A] Run the prepaid amortization schedule, reconcile the current-month amortization expense to the schedule total, and investigate any variance greater than $5,000 before posting.",full,Prepaid Amortization
+STEP-008,Subsidiary-B,"[Subsidiary-B] Run the prepaid amortization schedule, reconcile the current-month amortization expense to the schedule total, and investigate any variance greater than $5,000 before posting.",full,Prepaid Amortization
+STEP-009,Marketing BU,[Marketing BU] Amortize prepaids per the schedule.,partial,Prepaid Amortization
+STEP-010,Field Ops BU,[Field Ops BU] Amortize prepaids per the schedule.,partial,Prepaid Amortization
+STEP-011,Corporate,"[Corporate] Review bank statement, match to GL, note differences.",partial,Bank Reconciliation
+STEP-012,Marketing BU,"[Marketing BU] Review bank statement, match to GL, note differences.",partial,Bank Reconciliation
+STEP-013,Corporate,"[Corporate] Pull intercompany balances from each entity, confirm they net to zero before elimination, document any out-of-balance amounts with a resolution plan, and post the elimination entry with supporting schedule attached.",full,Intercompany Elimination
+STEP-014,Subsidiary-A,"[Subsidiary-A] Pull intercompany balances from each entity, confirm they net to zero before elimination, document any out-of-balance amounts with a resolution plan, and post the elimination entry with supporting schedule attached.",full,Intercompany Elimination
+STEP-015,Subsidiary-B,[Subsidiary-B] Eliminate intercompany balances.,partial,Intercompany Elimination
+STEP-016,Marketing BU,"[Marketing BU] Pull intercompany balances from each entity, confirm they net to zero before elimination, document any out-of-balance amounts with a resolution plan, and post the elimination entry with supporting schedule attached.",full,Intercompany Elimination
+STEP-017,Field Ops BU,"[Field Ops BU] Pull intercompany balances from each entity, confirm they net to zero before elimination, document any out-of-balance amounts with a resolution plan, and post the elimination entry with supporting schedule attached.",full,Intercompany Elimination
+STEP-018,Corporate,[Corporate] Update fixed asset schedule.,partial,Fixed Asset Roll-forward
+STEP-019,Subsidiary-A,[Subsidiary-A] Update fixed asset schedule.,partial,Fixed Asset Roll-forward
+STEP-020,Marketing BU,[Marketing BU] Update fixed asset schedule.,partial,Fixed Asset Roll-forward
+STEP-021,Field Ops BU,[Field Ops BU] Update fixed asset schedule.,partial,Fixed Asset Roll-forward
+STEP-022,Corporate,[Corporate] Get journal entries approved before posting.,partial,Journal Entry Approval
+STEP-023,Subsidiary-A,"[Subsidiary-A] Route all manual journal entries above the materiality threshold through the documented two-person approval workflow, retain supporting documentation for each entry, and log approver sign-off before posting.",full,Journal Entry Approval
+STEP-024,Subsidiary-B,"[Subsidiary-B] Route all manual journal entries above the materiality threshold through the documented two-person approval workflow, retain supporting documentation for each entry, and log approver sign-off before posting.",full,Journal Entry Approval
+STEP-025,Marketing BU,"[Marketing BU] Route all manual journal entries above the materiality threshold through the documented two-person approval workflow, retain supporting documentation for each entry, and log approver sign-off before posting.",full,Journal Entry Approval
+STEP-026,Field Ops BU,[Field Ops BU] Get journal entries approved before posting.,partial,Journal Entry Approval
+STEP-027,Corporate,"[Corporate] Complete account reconciliations for all balance sheet accounts per the close calendar, attach supporting schedules, and route each reconciliation for manager sign-off before the account is considered closed.",full,Account Reconciliation Sign-off
+STEP-028,Subsidiary-A,[Subsidiary-A] Reconcile balance sheet accounts.,partial,Account Reconciliation Sign-off
+STEP-029,Subsidiary-B,"[Subsidiary-B] Complete account reconciliations for all balance sheet accounts per the close calendar, attach supporting schedules, and route each reconciliation for manager sign-off before the account is considered closed.",full,Account Reconciliation Sign-off
+STEP-030,Field Ops BU,"[Field Ops BU] Complete account reconciliations for all balance sheet accounts per the close calendar, attach supporting schedules, and route each reconciliation for manager sign-off before the account is considered closed.",full,Account Reconciliation Sign-off
+STEP-031,Corporate,"[Corporate] Generate the month-over-month and budget-to-actual variance report, investigate any line item variance exceeding 10% or $25,000, and document the driver and business explanation for each flagged variance.",full,Flux Variance Analysis
+STEP-032,Subsidiary-B,[Subsidiary-B] Review variances vs. prior month.,partial,Flux Variance Analysis
+STEP-033,Field Ops BU,[Field Ops BU] Review variances vs. prior month.,partial,Flux Variance Analysis
+STEP-034,Subsidiary-A,"[Subsidiary-A] Match each incoming cash receipt to its corresponding invoice or expected payment using reference number and amount, flag unmatched or partial-amount receipts for manual review, and clear the matched items from the open-items report.",full,Cash Receipts Matching
+STEP-035,Subsidiary-B,[Subsidiary-B] Match cash receipts to invoices where possible.,partial,Cash Receipts Matching
+STEP-036,Marketing BU,[Marketing BU] Match cash receipts to invoices where possible.,partial,Cash Receipts Matching

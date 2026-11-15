@@ -1,0 +1,361 @@
+month_index,task_name,owner_tenure_months,days_to_deadline,complexity_score,sop_exists,upstream_dependencies,missed_or_rework
+0,Revenue Cutoff — Monthly,19,2,4,0,2,0
+0,Accrual Review — Monthly,11,1,2,1,4,0
+0,Prepaid Amortization — Monthly,3,2,5,0,4,1
+0,Bank Reconciliation — Monthly,12,5,1,1,1,0
+0,Intercompany Elimination — Monthly,27,4,1,1,1,0
+0,Fixed Asset Roll-forward — Monthly,27,5,1,0,0,0
+0,Journal Entry Approval — Monthly,28,4,3,0,3,0
+0,Account Reconciliation Sign-off — Monthly,24,1,2,0,3,0
+0,Flux Variance Analysis — Monthly,3,2,4,0,2,1
+0,Cash Receipts Matching — Monthly,22,1,5,0,2,1
+1,Revenue Cutoff — Monthly,3,3,5,0,3,1
+1,Accrual Review — Monthly,33,4,2,1,3,0
+1,Prepaid Amortization — Monthly,36,3,5,0,1,0
+1,Bank Reconciliation — Monthly,7,5,1,1,1,0
+1,Intercompany Elimination — Monthly,29,1,2,1,4,0
+1,Fixed Asset Roll-forward — Monthly,19,2,2,0,4,1
+1,Journal Entry Approval — Monthly,9,3,2,0,3,0
+1,Account Reconciliation Sign-off — Monthly,18,3,1,0,1,0
+1,Flux Variance Analysis — Monthly,8,5,5,0,4,1
+1,Cash Receipts Matching — Monthly,25,1,5,0,3,1
+2,Revenue Cutoff — Monthly,18,2,5,0,4,1
+2,Accrual Review — Monthly,9,1,2,1,4,0
+2,Prepaid Amortization — Monthly,9,4,4,0,0,0
+2,Bank Reconciliation — Monthly,19,5,3,1,3,0
+2,Intercompany Elimination — Monthly,8,5,1,1,3,0
+2,Fixed Asset Roll-forward — Monthly,10,4,1,0,0,0
+2,Journal Entry Approval — Monthly,4,5,1,0,0,0
+2,Account Reconciliation Sign-off — Monthly,5,4,1,0,1,0
+2,Flux Variance Analysis — Monthly,3,4,4,0,3,1
+2,Cash Receipts Matching — Monthly,21,3,5,0,3,0
+3,Revenue Cutoff — Monthly,11,5,5,0,0,0
+3,Accrual Review — Monthly,16,3,2,1,0,0
+3,Prepaid Amortization — Monthly,11,4,4,0,4,1
+3,Bank Reconciliation — Monthly,7,4,3,1,2,0
+3,Intercompany Elimination — Monthly,14,1,2,1,1,0
+3,Fixed Asset Roll-forward — Monthly,22,3,1,0,1,0
+3,Journal Entry Approval — Monthly,22,4,2,0,3,0
+3,Account Reconciliation Sign-off — Monthly,15,2,1,0,4,0
+3,Flux Variance Analysis — Monthly,3,2,5,0,2,1
+3,Cash Receipts Matching — Monthly,27,5,4,0,2,0
+4,Revenue Cutoff — Monthly,32,5,5,0,0,0
+4,Accrual Review — Monthly,16,5,1,1,0,0
+4,Prepaid Amortization — Monthly,7,3,5,0,1,0
+4,Bank Reconciliation — Monthly,16,2,1,1,3,0
+4,Intercompany Elimination — Monthly,28,1,1,1,0,0
+4,Fixed Asset Roll-forward — Monthly,21,5,2,0,4,0
+4,Journal Entry Approval — Monthly,12,5,1,0,0,0
+4,Account Reconciliation Sign-off — Monthly,12,5,2,0,1,0
+4,Flux Variance Analysis — Monthly,19,5,5,0,4,1
+4,Cash Receipts Matching — Monthly,12,1,5,0,4,1
+5,Revenue Cutoff — Monthly,22,3,5,0,0,1
+5,Accrual Review — Monthly,27,1,3,1,0,0
+5,Prepaid Amortization — Monthly,10,1,5,0,3,1
+5,Bank Reconciliation — Monthly,28,3,1,1,0,0
+5,Intercompany Elimination — Monthly,10,4,1,1,0,0
+5,Fixed Asset Roll-forward — Monthly,3,5,1,0,3,1
+5,Journal Entry Approval — Monthly,3,2,2,0,3,1
+5,Account Reconciliation Sign-off — Monthly,15,1,2,0,3,1
+5,Flux Variance Analysis — Monthly,16,3,5,0,3,0
+5,Cash Receipts Matching — Monthly,19,4,5,0,4,1
+6,Revenue Cutoff — Monthly,18,4,5,0,2,1
+6,Accrual Review — Monthly,5,5,3,1,3,0
+6,Prepaid Amortization — Monthly,3,5,4,0,1,1
+6,Bank Reconciliation — Monthly,3,3,2,1,1,0
+6,Intercompany Elimination — Monthly,24,3,1,1,0,0
+6,Fixed Asset Roll-forward — Monthly,16,1,1,0,2,1
+6,Journal Entry Approval — Monthly,3,2,3,0,3,1
+6,Account Reconciliation Sign-off — Monthly,7,4,2,0,0,0
+6,Flux Variance Analysis — Monthly,17,5,5,0,2,0
+6,Cash Receipts Matching — Monthly,16,4,5,0,0,0
+7,Revenue Cutoff — Monthly,13,3,5,0,4,1
+7,Accrual Review — Monthly,6,1,1,1,4,0
+7,Prepaid Amortization — Monthly,7,1,5,0,0,0
+7,Bank Reconciliation — Monthly,20,1,3,1,2,0
+7,Intercompany Elimination — Monthly,8,1,1,1,0,0
+7,Fixed Asset Roll-forward — Monthly,16,1,1,0,3,0
+7,Journal Entry Approval — Monthly,11,4,2,0,1,0
+7,Account Reconciliation Sign-off — Monthly,12,2,1,0,1,0
+7,Flux Variance Analysis — Monthly,20,4,5,0,2,0
+7,Cash Receipts Matching — Monthly,28,1,5,0,4,0
+8,Revenue Cutoff — Monthly,21,2,4,0,4,1
+8,Accrual Review — Monthly,3,5,3,1,0,0
+8,Prepaid Amortization — Monthly,7,2,5,0,0,0
+8,Bank Reconciliation — Monthly,9,3,2,1,0,0
+8,Intercompany Elimination — Monthly,8,1,1,1,4,0
+8,Fixed Asset Roll-forward — Monthly,3,4,1,0,3,0
+8,Journal Entry Approval — Monthly,5,1,3,0,2,0
+8,Account Reconciliation Sign-off — Monthly,3,5,1,0,3,0
+8,Flux Variance Analysis — Monthly,5,4,5,0,1,1
+8,Cash Receipts Matching — Monthly,3,3,5,0,3,1
+9,Revenue Cutoff — Monthly,12,3,5,0,0,0
+9,Accrual Review — Monthly,14,2,1,1,1,0
+9,Prepaid Amortization — Monthly,28,2,5,0,3,1
+9,Bank Reconciliation — Monthly,13,3,1,1,0,0
+9,Intercompany Elimination — Monthly,9,2,2,1,3,0
+9,Fixed Asset Roll-forward — Monthly,6,3,1,0,2,0
+9,Journal Entry Approval — Monthly,12,5,1,0,1,0
+9,Account Reconciliation Sign-off — Monthly,13,2,1,0,2,0
+9,Flux Variance Analysis — Monthly,15,2,5,0,4,1
+9,Cash Receipts Matching — Monthly,3,3,5,0,2,1
+10,Revenue Cutoff — Monthly,16,4,5,0,4,1
+10,Accrual Review — Monthly,10,4,3,1,3,0
+10,Prepaid Amortization — Monthly,8,3,5,0,1,0
+10,Bank Reconciliation — Monthly,17,2,2,1,2,0
+10,Intercompany Elimination — Monthly,15,3,1,1,0,0
+10,Fixed Asset Roll-forward — Monthly,34,2,1,0,4,0
+10,Journal Entry Approval — Monthly,22,3,2,0,0,0
+10,Account Reconciliation Sign-off — Monthly,8,5,2,0,3,0
+10,Flux Variance Analysis — Monthly,12,5,5,0,1,0
+10,Cash Receipts Matching — Monthly,3,5,4,0,3,1
+11,Revenue Cutoff — Monthly,22,3,5,0,3,0
+11,Accrual Review — Monthly,3,2,3,1,2,0
+11,Prepaid Amortization — Monthly,15,3,4,0,2,0
+11,Bank Reconciliation — Monthly,16,5,1,1,2,0
+11,Intercompany Elimination — Monthly,34,3,2,1,4,0
+11,Fixed Asset Roll-forward — Monthly,3,1,1,0,2,1
+11,Journal Entry Approval — Monthly,23,5,1,0,1,0
+11,Account Reconciliation Sign-off — Monthly,7,5,1,0,2,0
+11,Flux Variance Analysis — Monthly,16,2,4,0,1,1
+11,Cash Receipts Matching — Monthly,5,5,4,0,2,1
+12,Revenue Cutoff — Monthly,22,3,5,0,0,0
+12,Accrual Review — Monthly,27,3,1,1,1,0
+12,Prepaid Amortization — Monthly,19,2,4,0,2,0
+12,Bank Reconciliation — Monthly,10,2,2,1,4,0
+12,Intercompany Elimination — Monthly,18,2,1,1,4,0
+12,Fixed Asset Roll-forward — Monthly,24,1,1,0,4,0
+12,Journal Entry Approval — Monthly,29,3,2,0,0,0
+12,Account Reconciliation Sign-off — Monthly,7,2,1,0,2,0
+12,Flux Variance Analysis — Monthly,6,3,4,0,4,1
+12,Cash Receipts Matching — Monthly,8,1,5,0,4,1
+13,Revenue Cutoff — Monthly,17,4,5,0,3,0
+13,Accrual Review — Monthly,27,5,2,1,0,0
+13,Prepaid Amortization — Monthly,17,4,4,0,0,0
+13,Bank Reconciliation — Monthly,14,2,1,1,2,0
+13,Intercompany Elimination — Monthly,17,1,1,1,0,0
+13,Fixed Asset Roll-forward — Monthly,21,4,2,0,2,0
+13,Journal Entry Approval — Monthly,8,1,2,0,2,1
+13,Account Reconciliation Sign-off — Monthly,5,5,1,0,3,0
+13,Flux Variance Analysis — Monthly,25,3,5,0,2,0
+13,Cash Receipts Matching — Monthly,8,2,5,0,4,0
+14,Revenue Cutoff — Monthly,4,3,5,0,0,1
+14,Accrual Review — Monthly,7,4,1,1,1,0
+14,Prepaid Amortization — Monthly,22,4,5,0,3,1
+14,Bank Reconciliation — Monthly,8,1,1,1,2,0
+14,Intercompany Elimination — Monthly,5,3,2,1,3,0
+14,Fixed Asset Roll-forward — Monthly,16,4,2,0,2,0
+14,Journal Entry Approval — Monthly,22,2,1,0,3,0
+14,Account Reconciliation Sign-off — Monthly,5,1,2,0,0,0
+14,Flux Variance Analysis — Monthly,31,2,5,0,2,0
+14,Cash Receipts Matching — Monthly,12,1,4,0,1,1
+15,Revenue Cutoff — Monthly,21,2,4,0,0,0
+15,Accrual Review — Monthly,10,2,3,1,2,0
+15,Prepaid Amortization — Monthly,25,4,5,0,2,1
+15,Bank Reconciliation — Monthly,32,4,3,1,1,0
+15,Intercompany Elimination — Monthly,21,2,1,1,4,0
+15,Fixed Asset Roll-forward — Monthly,5,4,1,0,0,0
+15,Journal Entry Approval — Monthly,15,4,3,0,4,0
+15,Account Reconciliation Sign-off — Monthly,20,1,1,0,0,0
+15,Flux Variance Analysis — Monthly,18,5,4,0,4,0
+15,Cash Receipts Matching — Monthly,9,1,5,0,2,1
+16,Revenue Cutoff — Monthly,11,1,4,0,4,0
+16,Accrual Review — Monthly,23,5,1,1,1,0
+16,Prepaid Amortization — Monthly,10,1,5,0,4,0
+16,Bank Reconciliation — Monthly,9,3,1,1,1,0
+16,Intercompany Elimination — Monthly,3,3,1,1,4,0
+16,Fixed Asset Roll-forward — Monthly,12,2,1,0,3,0
+16,Journal Entry Approval — Monthly,3,3,2,0,2,0
+16,Account Reconciliation Sign-off — Monthly,3,2,2,0,4,1
+16,Flux Variance Analysis — Monthly,3,1,4,0,3,1
+16,Cash Receipts Matching — Monthly,8,5,5,0,2,0
+17,Revenue Cutoff — Monthly,11,3,4,0,0,0
+17,Accrual Review — Monthly,24,3,2,1,2,0
+17,Prepaid Amortization — Monthly,5,2,5,0,4,1
+17,Bank Reconciliation — Monthly,3,1,2,1,3,0
+17,Intercompany Elimination — Monthly,13,3,2,1,2,0
+17,Fixed Asset Roll-forward — Monthly,20,5,1,0,4,0
+17,Journal Entry Approval — Monthly,4,5,3,0,0,0
+17,Account Reconciliation Sign-off — Monthly,16,4,1,0,3,0
+17,Flux Variance Analysis — Monthly,23,4,4,0,4,0
+17,Cash Receipts Matching — Monthly,15,2,5,0,3,0
+18,Revenue Cutoff — Monthly,17,3,5,0,1,0
+18,Accrual Review — Monthly,12,3,1,1,4,0
+18,Prepaid Amortization — Monthly,10,3,5,0,0,0
+18,Bank Reconciliation — Monthly,24,1,3,1,1,0
+18,Intercompany Elimination — Monthly,29,1,2,1,3,0
+18,Fixed Asset Roll-forward — Monthly,7,4,1,0,4,0
+18,Journal Entry Approval — Monthly,24,1,1,0,4,0
+18,Account Reconciliation Sign-off — Monthly,13,2,1,0,2,0
+18,Flux Variance Analysis — Monthly,7,5,5,0,0,0
+18,Cash Receipts Matching — Monthly,11,3,5,0,0,1
+19,Revenue Cutoff — Monthly,17,2,4,0,2,0
+19,Accrual Review — Monthly,19,4,2,1,4,0
+19,Prepaid Amortization — Monthly,32,1,4,0,0,1
+19,Bank Reconciliation — Monthly,3,4,1,1,1,0
+19,Intercompany Elimination — Monthly,13,1,1,1,3,0
+19,Fixed Asset Roll-forward — Monthly,19,3,1,0,2,0
+19,Journal Entry Approval — Monthly,15,5,1,0,2,0
+19,Account Reconciliation Sign-off — Monthly,17,4,1,0,0,0
+19,Flux Variance Analysis — Monthly,3,3,5,0,4,1
+19,Cash Receipts Matching — Monthly,9,5,5,0,3,0
+20,Revenue Cutoff — Monthly,3,4,4,0,2,1
+20,Accrual Review — Monthly,26,1,2,1,2,0
+20,Prepaid Amortization — Monthly,3,3,5,0,2,1
+20,Bank Reconciliation — Monthly,22,2,1,1,0,0
+20,Intercompany Elimination — Monthly,7,5,2,1,0,0
+20,Fixed Asset Roll-forward — Monthly,3,3,2,0,3,0
+20,Journal Entry Approval — Monthly,3,4,3,0,4,1
+20,Account Reconciliation Sign-off — Monthly,9,3,1,0,1,0
+20,Flux Variance Analysis — Monthly,18,4,5,0,4,1
+20,Cash Receipts Matching — Monthly,3,3,5,0,4,1
+21,Revenue Cutoff — Monthly,4,4,5,0,2,1
+21,Accrual Review — Monthly,21,2,2,1,0,0
+21,Prepaid Amortization — Monthly,11,3,5,0,0,0
+21,Bank Reconciliation — Monthly,3,4,1,1,3,0
+21,Intercompany Elimination — Monthly,23,5,1,1,3,0
+21,Fixed Asset Roll-forward — Monthly,15,1,1,0,4,0
+21,Journal Entry Approval — Monthly,15,3,2,0,2,0
+21,Account Reconciliation Sign-off — Monthly,23,2,1,0,3,0
+21,Flux Variance Analysis — Monthly,15,2,5,0,0,1
+21,Cash Receipts Matching — Monthly,13,1,5,0,3,0
+22,Revenue Cutoff — Monthly,19,5,4,0,3,1
+22,Accrual Review — Monthly,17,4,3,1,3,0
+22,Prepaid Amortization — Monthly,3,2,5,0,4,1
+22,Bank Reconciliation — Monthly,10,2,3,1,0,0
+22,Intercompany Elimination — Monthly,13,4,1,1,3,0
+22,Fixed Asset Roll-forward — Monthly,3,3,2,0,1,0
+22,Journal Entry Approval — Monthly,22,3,2,0,3,0
+22,Account Reconciliation Sign-off — Monthly,13,1,1,0,0,0
+22,Flux Variance Analysis — Monthly,3,1,5,0,3,1
+22,Cash Receipts Matching — Monthly,34,3,5,0,0,0
+23,Revenue Cutoff — Monthly,24,2,5,0,0,0
+23,Accrual Review — Monthly,10,5,3,1,3,0
+23,Prepaid Amortization — Monthly,3,5,5,0,3,1
+23,Bank Reconciliation — Monthly,3,5,2,1,3,0
+23,Intercompany Elimination — Monthly,12,3,2,1,4,0
+23,Fixed Asset Roll-forward — Monthly,21,4,1,0,3,0
+23,Journal Entry Approval — Monthly,11,5,2,0,3,1
+23,Account Reconciliation Sign-off — Monthly,6,5,2,0,0,0
+23,Flux Variance Analysis — Monthly,28,4,5,0,0,0
+23,Cash Receipts Matching — Monthly,38,1,4,0,3,1
+24,Revenue Cutoff — Monthly,7,1,5,0,2,1
+24,Accrual Review — Monthly,3,3,3,1,3,0
+24,Prepaid Amortization — Monthly,15,4,4,0,4,0
+24,Bank Reconciliation — Monthly,14,1,2,1,1,0
+24,Intercompany Elimination — Monthly,19,2,1,1,0,0
+24,Fixed Asset Roll-forward — Monthly,5,1,2,0,1,0
+24,Journal Entry Approval — Monthly,22,4,3,0,4,0
+24,Account Reconciliation Sign-off — Monthly,12,3,1,0,1,0
+24,Flux Variance Analysis — Monthly,3,1,4,0,2,1
+24,Cash Receipts Matching — Monthly,3,2,4,0,4,1
+25,Revenue Cutoff — Monthly,4,1,5,0,1,1
+25,Accrual Review — Monthly,7,4,3,1,0,0
+25,Prepaid Amortization — Monthly,16,2,5,0,4,1
+25,Bank Reconciliation — Monthly,17,1,2,1,3,0
+25,Intercompany Elimination — Monthly,11,5,2,1,3,0
+25,Fixed Asset Roll-forward — Monthly,10,3,1,0,0,0
+25,Journal Entry Approval — Monthly,6,4,3,0,0,0
+25,Account Reconciliation Sign-off — Monthly,22,5,2,0,2,0
+25,Flux Variance Analysis — Monthly,24,1,5,0,1,0
+25,Cash Receipts Matching — Monthly,3,5,4,0,1,1
+26,Revenue Cutoff — Monthly,12,1,4,0,1,0
+26,Accrual Review — Monthly,18,4,2,1,2,0
+26,Prepaid Amortization — Monthly,17,1,5,0,3,1
+26,Bank Reconciliation — Monthly,5,2,1,1,2,0
+26,Intercompany Elimination — Monthly,3,5,1,1,0,0
+26,Fixed Asset Roll-forward — Monthly,18,1,2,0,1,0
+26,Journal Entry Approval — Monthly,5,4,3,0,2,0
+26,Account Reconciliation Sign-off — Monthly,16,1,2,0,2,0
+26,Flux Variance Analysis — Monthly,12,2,5,0,1,0
+26,Cash Receipts Matching — Monthly,3,2,5,0,3,1
+27,Revenue Cutoff — Monthly,4,3,4,0,2,1
+27,Accrual Review — Monthly,19,1,2,1,0,0
+27,Prepaid Amortization — Monthly,16,2,5,0,4,1
+27,Bank Reconciliation — Monthly,7,3,3,1,3,0
+27,Intercompany Elimination — Monthly,23,3,1,1,1,0
+27,Fixed Asset Roll-forward — Monthly,3,5,1,0,1,0
+27,Journal Entry Approval — Monthly,6,1,1,0,2,0
+27,Account Reconciliation Sign-off — Monthly,4,1,1,0,4,0
+27,Flux Variance Analysis — Monthly,30,3,5,0,1,0
+27,Cash Receipts Matching — Monthly,11,4,5,0,3,0
+28,Revenue Cutoff — Monthly,3,4,4,0,2,1
+28,Accrual Review — Monthly,23,1,1,1,2,0
+28,Prepaid Amortization — Monthly,7,3,4,0,2,1
+28,Bank Reconciliation — Monthly,8,4,2,1,0,0
+28,Intercompany Elimination — Monthly,18,4,1,1,0,0
+28,Fixed Asset Roll-forward — Monthly,19,3,1,0,3,0
+28,Journal Entry Approval — Monthly,3,1,3,0,3,1
+28,Account Reconciliation Sign-off — Monthly,11,4,1,0,1,0
+28,Flux Variance Analysis — Monthly,15,4,4,0,0,0
+28,Cash Receipts Matching — Monthly,8,4,4,0,4,1
+29,Revenue Cutoff — Monthly,14,5,5,0,4,0
+29,Accrual Review — Monthly,7,1,2,1,1,0
+29,Prepaid Amortization — Monthly,19,4,4,0,1,0
+29,Bank Reconciliation — Monthly,15,2,3,1,3,0
+29,Intercompany Elimination — Monthly,22,1,1,1,2,0
+29,Fixed Asset Roll-forward — Monthly,12,1,1,0,4,0
+29,Journal Entry Approval — Monthly,7,3,3,0,0,0
+29,Account Reconciliation Sign-off — Monthly,8,4,1,0,1,0
+29,Flux Variance Analysis — Monthly,8,5,5,0,2,0
+29,Cash Receipts Matching — Monthly,15,4,5,0,2,1
+30,Revenue Cutoff — Monthly,12,4,5,0,4,1
+30,Accrual Review — Monthly,10,4,2,1,2,0
+30,Prepaid Amortization — Monthly,12,2,5,0,3,1
+30,Bank Reconciliation — Monthly,29,2,2,1,2,0
+30,Intercompany Elimination — Monthly,21,1,1,1,4,0
+30,Fixed Asset Roll-forward — Monthly,7,2,1,0,1,0
+30,Journal Entry Approval — Monthly,6,4,2,0,2,0
+30,Account Reconciliation Sign-off — Monthly,6,4,1,0,1,0
+30,Flux Variance Analysis — Monthly,3,4,5,0,3,1
+30,Cash Receipts Matching — Monthly,3,4,5,0,2,1
+31,Revenue Cutoff — Monthly,17,1,4,0,4,1
+31,Accrual Review — Monthly,14,2,2,1,2,0
+31,Prepaid Amortization — Monthly,6,2,4,0,3,0
+31,Bank Reconciliation — Monthly,8,5,1,1,1,0
+31,Intercompany Elimination — Monthly,22,3,1,1,4,0
+31,Fixed Asset Roll-forward — Monthly,14,4,2,0,3,0
+31,Journal Entry Approval — Monthly,30,2,2,0,1,0
+31,Account Reconciliation Sign-off — Monthly,11,4,1,0,1,0
+31,Flux Variance Analysis — Monthly,10,2,5,0,2,1
+31,Cash Receipts Matching — Monthly,10,4,4,0,2,0
+32,Revenue Cutoff — Monthly,4,5,4,0,4,1
+32,Accrual Review — Monthly,5,2,1,1,4,0
+32,Prepaid Amortization — Monthly,9,3,4,0,4,1
+32,Bank Reconciliation — Monthly,14,2,1,1,2,0
+32,Intercompany Elimination — Monthly,15,3,1,1,1,0
+32,Fixed Asset Roll-forward — Monthly,9,2,2,0,2,0
+32,Journal Entry Approval — Monthly,8,1,2,0,0,0
+32,Account Reconciliation Sign-off — Monthly,3,2,1,0,1,0
+32,Flux Variance Analysis — Monthly,11,1,5,0,4,1
+32,Cash Receipts Matching — Monthly,32,5,4,0,3,1
+33,Revenue Cutoff — Monthly,5,3,4,0,2,1
+33,Accrual Review — Monthly,10,3,1,1,4,0
+33,Prepaid Amortization — Monthly,10,5,5,0,3,0
+33,Bank Reconciliation — Monthly,14,4,3,1,2,0
+33,Intercompany Elimination — Monthly,14,4,1,1,2,0
+33,Fixed Asset Roll-forward — Monthly,17,5,2,0,1,0
+33,Journal Entry Approval — Monthly,10,5,3,0,0,0
+33,Account Reconciliation Sign-off — Monthly,3,2,2,0,1,0
+33,Flux Variance Analysis — Monthly,21,2,5,0,3,1
+33,Cash Receipts Matching — Monthly,14,5,5,0,3,0
+34,Revenue Cutoff — Monthly,14,2,5,0,3,1
+34,Accrual Review — Monthly,18,1,2,1,3,0
+34,Prepaid Amortization — Monthly,13,1,5,0,0,1
+34,Bank Reconciliation — Monthly,5,1,1,1,0,0
+34,Intercompany Elimination — Monthly,3,3,1,1,0,0
+34,Fixed Asset Roll-forward — Monthly,28,1,1,0,1,0
+34,Journal Entry Approval — Monthly,14,1,1,0,1,0
+34,Account Reconciliation Sign-off — Monthly,3,5,1,0,3,0
+34,Flux Variance Analysis — Monthly,3,4,4,0,1,1
+34,Cash Receipts Matching — Monthly,6,4,5,0,1,0
+35,Revenue Cutoff — Monthly,22,5,4,0,0,0
+35,Accrual Review — Monthly,13,3,3,1,4,0
+35,Prepaid Amortization — Monthly,3,4,5,0,4,1
+35,Bank Reconciliation — Monthly,22,3,2,1,1,0
+35,Intercompany Elimination — Monthly,4,5,1,1,3,0
+35,Fixed Asset Roll-forward — Monthly,9,4,1,0,3,0
+35,Journal Entry Approval — Monthly,3,5,1,0,0,0
+35,Account Reconciliation Sign-off — Monthly,9,4,1,0,3,0
+35,Flux Variance Analysis — Monthly,8,4,5,0,4,1
+35,Cash Receipts Matching — Monthly,22,2,4,0,4,1
